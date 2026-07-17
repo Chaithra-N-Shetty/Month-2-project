@@ -18,7 +18,7 @@ sns.set(style="whitegrid")
 # Load Dataset
 # ==========================================================
 
-df = pd.read_csv("C:\\Users\\ksche\\netflix_titles.csv")
+df = pd.read_csv("netflix_titles.csv")
 
 print("="*60)
 print("First 5 Rows")
